@@ -1,21 +1,22 @@
 Bài tập nhóm 5 :
 
-Bài thực hành 01 : Ứng dụng AI trong cấu hình và giải quyết sự cố.
+Bài thực hành 1 : Ứng dụng AI trong cấu hình và giải quyết sự cố.
 
 Thành viên : 
 Tạ Vĩnh Lân - B2509737.
 Huỳnh Hương - B2509731.
 Trần Hồng Hạt Nhân - B2509747.
-Trần Hoàng Minh - B2509741.
+Trần Hoàng Minh - B2509741. 
 
-Mục tiêu: 
-Sử dụng công cụ AI để hỗ trợ cấu hình phần cứng/phần mềm cơ bản (CLO13).
-Áp dụng AI để giải quyết sự cố kỹ thuật đơn giản (CLO11).
-Sử dụng công cụ AI một cách đạo đức và minh bạch trong các ứng dụng đơn giản (CLO12).
-Rèn luyện kỹ năng tự học và khám phá kiến thức công nghệ số (CLO14).
+1. Mô tả nội dung
+Bài thực hành này nhằm tìm hiểu và ứng dụng công cụ AI trong quá trình học tập, bao gồm:
+- Sử dụng AI để hỗ trợ tìm kiếm thông tin và hướng dẫn kỹ thuật.
+- Ứng dụng AI trong thiết kế nội dung và trình bày sản phẩm.
+- Nâng cao kỹ năng sử dụng công nghệ số một cách hiệu quả.
 
-Giải thích file:
-Các file Nhiệm vụ 1, nhiệm vụ 2, nhiệm vụ 3 là các nội dung word mô tả nội dung bài
-Các ảnh và file python kèm theo là minh chứng nhóm đã thực hiện.
+2. Công cụ AI đã sử dụng
+- Google Gemini: Hỗ trợ tra cứu thông tin, hướng dẫn cài đặt phần mềm và giải thích kiến thức.
+- Canva AI: Hỗ trợ thiết kế hình ảnh, slide và nội dung trực quan.
 
-Ghi chú : mọi công việc cả nhóm đều làm qua nhưng mỗi người sẽ đảm nhiệm chính 1 phần chính của mình.
+3. Ghi chú
+Nội dung được thực hiện bởi tất cả thành viên của nhóm.
