@@ -6,7 +6,7 @@ Thành viên :
 Tạ Vĩnh Lân - B2509737.
 Huỳnh Hương - B2509731.
 Trần Hồng Hạt Nhân - B2509747.
-Trần Hoàng Minh - B25097
+Trần Hoàng Minh - B2509741.
 
 Mục tiêu: 
 Sử dụng công cụ AI để hỗ trợ cấu hình phần cứng/phần mềm cơ bản (CLO13).
